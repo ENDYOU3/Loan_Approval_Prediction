@@ -23,7 +23,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 ## Implementation :
 **Programming Language :** `python 3.10`
 
-**Libraries :** `pandas`   `NumPy`   `scikit-learn`   `Matplotlib`   `seaborn`   
+**Libraries :** `pandas`   `NumPy`   `scikit-learn`   `Matplotlib`   `seaborn`   `scipy`   
 
 ## Installation : 
 ### Run with Integrated development environment (IDE)
